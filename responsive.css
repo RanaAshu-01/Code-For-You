@@ -1,0 +1,102 @@
+ @media (max-width: 767px) {
+
+            .nav2 {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .menu li {
+                margin: 8px;
+                display: inline-block;
+            }
+
+            .head-area img {
+                height: 350px;
+            }
+
+            .wel h1 {
+                font-size: 40px;
+            }
+
+            .small-d {
+                width: 90%;
+                font-size: 11px;
+            }
+
+            .booking-panel {
+                width: 100%;
+                height: auto;
+                margin-top: 20px;
+            }
+
+            .col-xs-3 {
+                width: 100%;
+                height: auto;
+                margin-bottom: 10px;
+            }
+
+            .box {
+                width: 100%;
+                padding: 0 15px;
+            }
+
+            .box h1 {
+                font-size: 26px;
+            }
+
+            .box2 img {
+                width: 100%;
+                height: auto;
+            }
+
+            .mini-box {
+                width: 100%;
+                padding: 30px 15px;
+            }
+
+            .mini-box h1 {
+                font-size: 28px;
+            }
+
+            .image-row img {
+                height: auto;
+            }
+
+            .text-wrapper {
+                width: 100%;
+                margin: 20px;
+            }
+
+            .white-card {
+                width: 100%;
+                height: auto;
+                padding: 25px;
+            }
+
+            .in-center {
+                width: 100%;
+            }
+
+            .count {
+                font-size: 28px;
+            }
+
+            .wrap-all {
+                width: 100%;
+            }
+
+            .row-blog img {
+                width: 100%;
+                height: auto;
+            }
+
+            .line {
+                flex-direction: column;
+                gap: 6px;
+            }
+
+            .p-left {
+                justify-content: center;
+            }
+
+        }
